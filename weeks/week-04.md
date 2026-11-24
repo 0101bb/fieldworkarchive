@@ -13,6 +13,14 @@ permalink: /weeks/week-04/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 
+台北漢口街一段
+
+![漆成深藍色的舊樓，底層水泥柱斑駁剝落，後方是新光摩天大樓]({{ '/assets/images/w04-blue-building.jpg' | relative_url }})
+
+![整片被藍色防塵網包住的鷹架工地，網子有破口，後方露出舊公寓]({{ '/assets/images/w04-construction-net.jpg' | relative_url }})
+
+![柱子上粗糙的水泥抹痕特寫，邊緣翻起，有細裂縫與氣孔]({{ '/assets/images/w04-cement-texture.jpg' | relative_url }})
+
 ## FRICTION｜摩擦
 
 描述一個沒有如預期發生的瞬間。
