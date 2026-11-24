@@ -17,6 +17,12 @@ permalink: /weeks/week-02/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 
+![深色竹牆的橫桿上插著長葉，有的還綠、有的乾黃捲成細絲垂下]({{ '/assets/images/w02-bamboo-leaves.jpg' | relative_url }})
+
+![竹筒圍成的柱子，腰間用竹篾圈綁緊，上面繫著幾束青草]({{ '/assets/images/w02-bamboo-pillar.jpg' | relative_url }})
+
+![夜裡仰望棕櫚葉，葉縫間透出一個小小的月亮]({{ '/assets/images/w02-palm-moon.jpg' | relative_url }})
+
 
 ## FRICTION｜摩擦
 
